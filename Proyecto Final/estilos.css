@@ -1,0 +1,186 @@
+body{     background-image: url(images/vectores.jpg);
+          padding:0px;
+          width: 1230px;
+          margin: auto;
+      }
+header{
+          margin:auto;
+          margin-top: 22px;
+          text-align: center;
+          padding: 8px;
+          border: 5px solid;
+      }
+ul{ 
+          font-size: 180%;
+      }
+navigation li{ 
+          background-color: white;
+          margin: auto;
+          margin-left: 20px;
+          display: inline;
+          padding: 10px; 
+      }
+li{
+    list-style-type: none;   
+      }
+.enlaces li a{
+    list-style-type: none;
+    text-decoration: none;
+}
+/* css para html principal */
+
+.fprinci{
+          
+          float: right;
+      }
+.fprinci li img{ 
+          margin: auto;
+          margin-top: 90px;
+          width: 420px;
+          border-radius: 35%;
+          border: 4px solid white;
+      }
+.hprinci {border: 5px solid #11C4BA;
+          background-color: white;
+          font-size: 200%;
+          text-align: center;
+      }
+.pprinci { 
+          margin: auto;
+          margin-top: -38px;
+          padding: 12px;
+          font-size: 180%;
+          color:white;
+          font-weight: bold;
+          background-color: #11C4BA;
+          text-align: center;
+      }
+.hprinciv {border: 5px solid #06C8C8;
+          background-color: white;
+          font-size: 200%;
+          text-align: center;
+      }
+.pprinciv { 
+          margin: auto;
+          margin-top: -38px;
+          padding: 12px;
+          font-size: 180%;
+          color:white;
+          font-weight: bold;
+          background-color: #06C8C8;
+          text-align: center;
+      }
+.fprinciv{
+          
+          float: left;
+      }
+.fprinciv li img{ 
+          margin: auto;
+          margin-top: 120px;
+          width: 450px;
+          border-radius: 35%;
+          border: 4px solid white;
+      }
+
+/* 
+css para html bienvenido */
+
+.ticolorBie {border: 5px solid #C6CC08;
+          background-color: white;
+          font-size: 200%;
+          text-align: center;
+      }
+.Parrocolorbien { 
+          margin: auto;
+          margin-top: -30px;
+          padding: 12px;
+          font-size: 180%;
+          color:white;
+          font-weight: bold;
+          background-color: #C6CC08;
+          text-align: center;   
+}
+.focongreso{
+          
+          float: right;
+      }
+.focongreso li img{ 
+          margin: auto;
+          margin-top: 30px;
+          width: 590px;
+          border-radius: 30%;
+    border: 4px solid white;}
+
+/* css para html historia */
+
+.fhisto{
+          
+          float: right;
+      }
+.fhisto li img{ 
+          margin: auto;
+          margin-top: 145px;
+          width: 550px;
+          border-radius: 35%;
+          border: 4px solid white;
+      }
+.hhisto {border: 5px solid #26A008;
+          background-color: white;
+          font-size: 200%;
+          text-align: center;
+      }
+.phisto { 
+          margin: auto;
+          margin-top: -38px;
+          padding: 12px;
+          font-size: 180%;
+          color:white;
+          font-weight: bold;
+          background-color: #26A008;
+          text-align: center;
+      }
+
+/* css para html logros */
+
+      .hlogro {
+          border: 5px solid red;
+          background-color: white;
+          font-size: 200%;
+          text-align: center;
+      }
+ 
+      
+      .packfo ul li {
+          display: inline;
+          
+          
+      }
+      .packfo ul li img{
+          
+          margin: auto;
+          margin-left: 20px;
+          width: 800px;
+          border-radius: 30%;
+          border: 8px solid red;
+         
+      }
+      #senoritas{
+          margin: auto;
+          margin-bottom: 20px;
+      }
+      #dril{
+          margin: auto;
+          margin-bottom: 10px;
+      }
+      #declamacion{
+          margin: auto;
+          margin-bottom: 20px;
+      }
+      #pantalon{
+          margin: auto;
+          margin-left: 100px;
+      }
+      #desfile{
+          margin: auto;
+          margin-left:  120px;
+      }
